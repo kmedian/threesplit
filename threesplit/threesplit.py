@@ -52,5 +52,5 @@ def threesplit(*data, test_size=0.2, random_state=None, shuffle=True):
         return x[idx[:nt], :], x[idx[nt:(nt + nv)], :], x[idx[-nv:], :]
     else:
         return (
-            x[idx[:nt], :], x[idx[nt:(nt + nv)], :], x[idx[-nv:], :], 
+            x[idx[:nt], :], x[idx[nt:(nt + nv)], :], x[idx[-nv:], :],
             y[idx[:nt], :], y[idx[nt:(nt + nv)], :], y[idx[-nv:], :])
