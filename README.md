@@ -1,5 +1,6 @@
-[![Build Status](https://travis-ci.org/kmedian/threesplit.svg?branch=master)](https://travis-ci.org/kmedian/threesplit)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kmedian/threesplit/master?urlpath=lab)
+[![PyPI version](https://badge.fury.io/py/threesplit.svg)](https://badge.fury.io/py/threesplit)
+[![threesplit](https://snyk.io/advisor/python/threesplit/badge.svg)](https://snyk.io/advisor/python/threesplit)
+
 
 # threesplit
 Three-way data split into training set, validation set, and test set.
