@@ -16,10 +16,9 @@ setup(name='threesplit',
       url='http://github.com/kmedian/threesplit',
       author='Ulf Hamster',
       author_email='554c46@gmail.com',
-      license='MIT',
+      license='Apache License 2.0',
       packages=['threesplit'],
       install_requires=[
-          'setuptools>=40.0.0',
           'numpy>=1.14.5'],
       python_requires='>=3.6',
       zip_safe=False)
