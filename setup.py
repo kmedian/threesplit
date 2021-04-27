@@ -9,7 +9,7 @@ def read(fname):
 
 
 setup(name='threesplit',
-      version='0.1.0',
+      version='0.1.1',
       description=(
           "Three-way data split into training set, "
           "validation set, and test set."),
